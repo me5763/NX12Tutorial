@@ -1,6 +1,3 @@
-- Translations
-  - [:uk: English](/)
-  - [:cn: 中文](/zh-cn/)
-  - [:de: Deutsch](/de-de/)
-  - [:es: Spanish](/es/)
-  - [:ru: Russian](/ru/)
+- Links
+  - [Lab](https://me5763.github.io/lab)
+

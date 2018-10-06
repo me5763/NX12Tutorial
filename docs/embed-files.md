@@ -44,10 +44,10 @@ You will get it
 If you embed the file as `iframe`, `audio` and `video`, then you may need to set the attributes of these tags.
 
 ```markdown
-[cinwell website](https://cinwell.com ':include :type=iframe width=100% height=400px')
+[cinwell website](https://me5763.github.io/lab ':include :type=iframe width=100% height=400px')
 ```
 
-[cinwell website](https://cinwell.com ':include :type=iframe width=100% height=400px')
+[cinwell website](https://me5763.github.io/lab ':include :type=iframe width=100% height=400px')
 
 Did you see it? You only need to write directly. You can check [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) for these attributes.
 
