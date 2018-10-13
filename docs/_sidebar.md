@@ -7,6 +7,7 @@
   * tba
 * **Drafting**
 * **Assembly Modeling**
+* **Motion Simulation**
 * **Surface Modeling**
   * [Through Points<sup style="color:red">(new)<sup>](surface-through-points.md)
   * [From Poles<sup style="color:red">(new)<sup>](surface-from-poles.md)
@@ -15,3 +16,4 @@
   * [Sheet Metal Design<sup style="color:red">(new)<sup>](sheet-metal-design.md)
 * **FEA Simulation**
 * **Manufacturing**
+
